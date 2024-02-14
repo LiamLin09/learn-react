@@ -1,6 +1,6 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Nianlong Lin
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
